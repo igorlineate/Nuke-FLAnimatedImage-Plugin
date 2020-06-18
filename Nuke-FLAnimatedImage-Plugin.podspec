@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
     s.module_name      = "NukeFLAnimatedImagePlugin"
 
-    s.dependency 'Nuke', '~> 8.0'
+    s.dependency 'Nuke', '~> 9.0'
     s.dependency 'FLAnimatedImage', '~> 1.0'
 
     s.source_files  = 'Source/**/*'
